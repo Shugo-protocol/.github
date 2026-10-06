@@ -9,6 +9,6 @@ We believe autonomous agents should be able to **act on behalf of users without 
 Shugo separates **asset ownership** from **execution authority**, giving agents constrained, measurable, and revocable permissions instead of unrestricted access to private keys.
 
 <p align="center">
-  <a href="#">🌐 Website</a> ·
-  <a href="#">📚 Documentation</a> ·
+  <a href="https://www.shugo.website/">🌐 Website</a> ·
+  <a href="https://www.docs.shugo.website/">📚 Documentation</a> ·
 </p>
